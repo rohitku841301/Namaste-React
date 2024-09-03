@@ -1,3 +1,0 @@
-1 Emitte
-2 library vs framework
-3 crossorigin
