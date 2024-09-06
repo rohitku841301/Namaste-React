@@ -22,6 +22,8 @@ install
     - root.render() takes this object and translates it into actual DOM operations to display the h1 element with "Hello, world!" text in the browser
     - summary => jsx code -> react.createElement() -> reactElement(plane js object) -> html element
 
+4. How JSX code prevent cross site attack or malicius api data?
+
 4. Babel -
     - Babel is a javascript compiler.
     - Babel (or TypeScript): These tools compile the JSX syntax into plain JavaScript (React.createElement calls).
